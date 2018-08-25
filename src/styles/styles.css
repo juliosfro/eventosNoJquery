@@ -1,0 +1,48 @@
+#dv1 {
+    width: 100px;
+    height: 100px;
+    border: 1px solid #000;
+    background-color: #f00;
+    position: absolute;
+    left: 4px;
+    top: 7px;
+}
+
+#cmb-opcoes {
+    position: absolute;
+    left: 380px;
+    margin-top: 5px;
+    width: 120px;
+    height: 31.15px;
+}
+
+#btn-limpar {
+    position: absolute;
+    left: 380px;
+    margin-top: 50px;
+    font-size: 12px;
+}
+
+#campo1 {
+    position: absolute;
+    left: 120px;
+    width: 120px;
+    margin-top: 5px;
+    height: 31.15px;
+}
+
+#campo2 {
+    position: absolute;
+    left: 250px;
+    width: 120px;
+    margin-top: 5px;
+    height: 31.15px;
+}
+
+#resultado {
+    position: absolute;
+    left: 120px;
+    width: 250px;
+    margin-top: 50px;
+    height: 31.15px;
+}
